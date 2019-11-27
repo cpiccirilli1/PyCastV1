@@ -1,0 +1,3 @@
+http://feeds.wnyc.org/radiolab
+http://feeds.feedburner.com/science-friday
+http://feed.thisamericanlife.org/talpodcast
